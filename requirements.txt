@@ -1,1 +1,5 @@
 opencv-python-headless
+torch
+ultralytics
+paddlepaddle
+paddleocr
