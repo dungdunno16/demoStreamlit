@@ -1,6 +1,6 @@
 streamlit
-opencv-python-headless
 torch --extra-index-url https://download.pytorch.org/whl/cpu
 paddlepaddle==2.5.2
 paddleocr
 numpy
+opencv-python-headless>=4.8.0
